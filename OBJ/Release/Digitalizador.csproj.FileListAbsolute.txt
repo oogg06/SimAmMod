@@ -1,0 +1,16 @@
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Release\Digitalizador.FormularioPrincipal.resources
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Release\Digitalizador.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Release\Digitalizador.csproj.GenerateResource.Cache
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\bin\Release\Digitalizador.exe
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\bin\Release\Digitalizador.pdb
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Release\Digitalizador.exe
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Release\Digitalizador.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\bin\Release\Digitalizador.exe
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\bin\Release\Digitalizador.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Release\ResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Release\Digitalizador.FormularioPrincipal.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Release\Digitalizador.Properties.Resources.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Release\Digitalizador.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Release\Digitalizador.exe
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Release\Digitalizador.pdb

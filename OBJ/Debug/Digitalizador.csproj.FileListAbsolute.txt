@@ -1,0 +1,16 @@
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\bin\Debug\Digitalizador.exe
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\bin\Debug\Digitalizador.pdb
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Debug\Digitalizador.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Debug\Digitalizador.csproj.GenerateResource.Cache
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Debug\Digitalizador.exe
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Debug\Digitalizador.pdb
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Digitalizador\obj\Debug\Digitalizador.FormularioPrincipal.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Debug\Digitalizador.exe
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Debug\Digitalizador.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\bin\Debug\Digitalizador.exe
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\bin\Debug\Digitalizador.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Debug\Digitalizador.FormularioPrincipal.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Debug\Digitalizador.Properties.Resources.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Digitalizador\Digitalizador\obj\Debug\Digitalizador.csproj.GenerateResource.Cache
