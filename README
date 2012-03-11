@@ -1,0 +1,4 @@
+SimAmMod
+========
+
+This program simulates the way AM Modulation and digitalizacion works. It shows a wave and its digitalized equivalent allowing the user to choose the amount of bits used. The more bits, the more realistic the digitalized wave seems.
